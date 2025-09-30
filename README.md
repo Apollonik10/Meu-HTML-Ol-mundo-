@@ -30,7 +30,7 @@ Meu primeiro projeto de HTML
 </hgroup>
 
          <figure>
-       <img src="https://i.postimg.cc/MHXSww57/glass-oculos-preto-peq.png" alt="Óculos Preto Pequeno">
+       <img src=https://i.postimg.cc/MHXSww57/glass-oculos-preto-peq.png " alt="Óculos Preto Pequeno">
 
          </figure>
 <h2>Menu Principal</h2>
