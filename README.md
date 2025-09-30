@@ -30,7 +30,7 @@ Meu primeiro projeto de HTML
 </hgroup>
 
          <figure>
-       <img src= <img src="imagens/glass-oculos-preto-peq.png" alt="Google Glass pequeno preto">
+       <img src= <img src=" https://i.postimg.cc/MHXSww57/glass-oculos-preto-peq.png">
 
          </figure>
 <h2>Menu Principal</h2>
